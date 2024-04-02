@@ -1,0 +1,5 @@
+pandas
+numpy
+opencv-python==4.9.0.80
+mediapipe==0.10.11
+scikit-learn==1.4.1.post1
