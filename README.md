@@ -42,9 +42,10 @@
 <h2 id="dependencies">Dependencies</h2>
 
 <ul>
-  <li>Python 3.x</li>
-  <li>OpenCV</li>
-  <li>NumPy</li>
+  <li>Python 3.11.4</li>
+  <li>opencv-python==4.9.0.80</li>
+  <li>mediapipe==0.10.11</li>
+  <li>scikit-learn==1.4.1.post1</li>
 </ul>
 
 <h2 id="contributing">Contributing</h2>
