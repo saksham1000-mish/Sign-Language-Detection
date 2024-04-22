@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sign Language Detection using Python and OpenCV</title>
 </head>
 <body>
 <h1>Sign Language Detection using Python and OpenCV</h1>
@@ -53,9 +52,6 @@
 
 <p>Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss the proposed changes.</p>
 
-<h2 id="license">License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 </body>
 </html>
