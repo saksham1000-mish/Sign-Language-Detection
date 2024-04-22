@@ -17,7 +17,6 @@
   <li><a href="#usage">Usage</a></li>
   <li><a href="#dependencies">Dependencies</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <h2 id="overview">Overview</h2>
